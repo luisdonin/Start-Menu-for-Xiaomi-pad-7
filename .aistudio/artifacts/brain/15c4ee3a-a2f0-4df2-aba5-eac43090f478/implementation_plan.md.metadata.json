@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for the Xiaomi Pad 7 Floating Start Menu app. Outlines the translucent floating window architecture, dock launcher behavior, package querying, pinned favorites, search filtering, quick actions, and tablet workstation layout.",
+  "updatedAt": "2026-11-05T22:49:51.671645523Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

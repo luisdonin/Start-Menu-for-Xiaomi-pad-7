@@ -1,0 +1,6 @@
+{
+  "name": "Pad Start",
+  "description": "Floating desktop-style start menu for Xiaomi Pad 7 with fast search, pinned apps, and quick controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
